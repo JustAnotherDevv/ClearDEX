@@ -1,7 +1,7 @@
 
 ;; clear-swap
 ;; author: NevvDevv
-;; Token swap on Stacks network
+;; Token swap orderbook-based DEX on Stacks network
 
 ;; constants
 ;;
