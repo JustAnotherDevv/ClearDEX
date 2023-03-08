@@ -12,6 +12,22 @@ Modern DEX with orderbook implemented in Clarity. Created for Building on Bitcoi
 
 ## About the project
 
+Features:
+
+⚫adding new buy order
+
+⚫adding new sell order
+
+⚫flat 1% fee on all transactions
+
+⚫filling buy order
+
+⚫filling sell order
+
+⚫getting details for buy/sell orders
+
+⚫canceling buy/sell order(removes liquidity from contract and send STC/custom token back to user)
+
  This DEX orderbook will allow users to place buy and sell orders for various cryptocurrencies in a decentralized manner, without the need for a central authority. Currently for demonstration purposes it's only limited to trades between STX and custom clear token but it could be deployed with other tokens available on the Stacks.
 
 It's important to emphasize that it uses orderbook instead of typical AMM to facilitate token swaps.
