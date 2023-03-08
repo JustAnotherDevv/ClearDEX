@@ -3,9 +3,3 @@
 **/settings/Testnet.toml
 .cache/**
 history.txt
-
-./contracts/**
-
-./contracts/clear-swap.clar
-
-clear-swap.clar
